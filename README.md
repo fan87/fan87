@@ -1,3 +1,5 @@
+# fan87's manual
+Note: This is not finished yet, and my GitHub profile is still a mess (Like there are tons of repositories that should be public but they are still private.)
 ## IDE/Editors Used
 
 They are not sorted.
