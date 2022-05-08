@@ -2,7 +2,7 @@
 
 Note: This is not finished yet, and my GitHub profile is still a mess (Like there are tons of repositories that should be public but they are still private.)
 
-fan87 is a backend developer, who considers himself as a junior backend developer. 
+fan87 is mostly doing Minecraft modding work, some backend work, and a lot of JVM software/program reversing work.
 
 ( Right now I'm bored so let's finish this manual lol )
 
@@ -32,9 +32,15 @@ Gato.Host Password Reset
 
 ![](https://storage.gato.host/61068f9c11c02e002297ebf2/6ia6LP-Df.png)
 
+SpookySky V1
+
+![](https://i.imgur.com/pO5a2nL.png)
+
 ### Projects
 
 Most of them are private. I don't like to let all of my friends know what I've been working on.
+
+Also they are not all, there are too many and I'm lazy to add them all.
 
 ( Bold = Featured, [WIP] = Not finished, [Archived] = Stopped maintaining, [Finished] = Finished its job and confirmed that it will never be updated, [?% WIP ?% Finished and usable] =  Usable with coverage )
 
@@ -80,3 +86,31 @@ Most of them are private. I don't like to let all of my friends know what I've b
 
 - Website
   - [Archived] RektSky Website
+
+### Skill / Learned
+
+Tbh I learned too many things so they are obviously not all.
+
+*Language (?%) means the language itself, but the community. For example: Java 100% means I understand 100% of java language itself
+
+- Java (100%) (Fluently), Kotlin (90%) (Fluently), Groovy(40%)
+  - Gradle (80%)
+  - Maven (75%) (Fluently)
+  - Bytecode (98%) (Fluently)
+  - JVM Behavior (80%)
+  - And other stuff like serialization reflection blablabla (99%)
+- ASM (30%) (Still learning, and about to start hard learning it)
+- Python (75%) (Let's face the truth, it's a scripting language.)
+- Markdown (70%) (Fluently)
+- Vanilla Javascript (40%) (Still learning)
+- Vanilla HTML (1%) (Fluently, I mean nobody actually learns every single element type of HTML... right?)
+- Vanilla CSS (80%)
+- Scratch (lol) (100%)  (Fluently)
+- Dart (75%) (Still learning)
+- Lua (50%) (Still learning)
+  - Man tbh if you actually learn lua, there are some complicated things
+
+### Education
+
+For more information, please check my [LinkedIn](https://gato.host/l/ryR3tlDx0/)
+
