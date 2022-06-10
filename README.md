@@ -42,7 +42,10 @@ Most of them are private. I don't like to let all of my friends know what I've b
 
 Also they are not all, there are too many and I'm lazy to add them all.
 
-( Bold = Featured, [WIP] = Not finished, [Archived] = Stopped maintaining, [Finished] = Finished its job and confirmed that it will never be updated, [?% WIP ?% Finished and usable] =  Usable with coverage )
+
+( Bold = Featured, [WIP] = Not finished, [Archived] = Stopped maintaining, [Finished] = Finished its job and confirmed that it will never be updated, [?% WIP ?% Finished and usable] =  Usable with coverage , [Inactive] = Will work on it/still maintaining, but not now, [Active] = Working on it right now)
+
+#### Worked on
 
 - Java Software Developer
   - Minecraft Client Development
@@ -57,7 +60,6 @@ Also they are not all, there are too many and I'm lazy to add them all.
     - [Archived] [WIP] Hypixel SkyBlock Remake
   - JVM Related Programs Development
     - [Archived] Dragon Guard - A strong Java program obfuscator (but not that strong), [Example](https://gist.github.com/fan87/79b6aff22cefe5da7453c167c8a2f69e)
-    - [Archived] [20% WIP  80% Finished and usable] Rekt Guard - Another stronger Java program obfuscator with crasher, more custom flow obfuscations etc.
     - [Archived] MixBukkit - A mixin API for Spigot
   - Backend Development
     - [Finished] RektSky Backend
@@ -71,12 +73,17 @@ Also they are not all, there are too many and I'm lazy to add them all.
     - [Archived] [WIP] Eternal Red - Eternal client deobfuscation
   - Desktop Software Development
     - [Archived] RektSky Launcher
+  - Networking
+    - [Inactive] Facket - A serialization based packet system made in Java (Not limited to TCP if you implemenet main class on your own)
 - Kotlin
   - Gradle Plugin Development
     - [Archived] Placeholder Plugin
     - [Archived] Minecraft Plugin Remapper Plugin
     - [Archived] Minecraft Execute Command (RCON) Plugin
     - [Archived] Gradle Hotswap Plugin
+  - JVM Related Programs Development
+    - [Archived] [20% WIP  80% Finished and usable] RektGuard - Another stronger Java program obfuscator with crasher, more custom flow obfuscations etc. (Requires `-noverify`, contact me if you ara interested in obfuscating your small program)
+
 - Python
   - Discord Bots
     - [Archived] Waterdroplet Music Bot
@@ -86,6 +93,9 @@ Also they are not all, there are too many and I'm lazy to add them all.
 
 - Website
   - [Archived] RektSky Website
+  - [Archived] Old Qool.dev Website
+
+
 
 ### Skill / Learned
 
@@ -114,3 +124,5 @@ Tbh I learned too many things so they are obviously not all.
 
 For more information, please check my [LinkedIn](https://gato.host/l/ryR3tlDx0/)
 
+### Contact
+`fan87#5283` on Discord
