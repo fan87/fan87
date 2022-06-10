@@ -1,4 +1,6 @@
-# fan87's manual.md
+![](https://imgur.com/vsJCEFk.png)
+
+(Should I get a server that auto-crafts the banner by my GitHub stats in real-time lol, that would be fun to do)
 
 Note: This is not finished yet, and my GitHub profile is still a mess (Like there are tons of repositories that should be public but they are still private.)
 
