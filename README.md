@@ -71,6 +71,7 @@ Also they are not all, there are too many and I'm lazy to add them all.
   - Misc
     - [Archived] Minecraft Assets Indexer/Remapper
     - [Archived] Simple Radio Server (Audio encoding, decoding, audio packets etc.)
+    - [Finished] Zip Bomb Generator
   - Reversing
     - [Archived] [WIP] Eternal Red - Eternal client deobfuscation
   - Desktop Software Development
