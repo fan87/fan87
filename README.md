@@ -86,7 +86,9 @@ Also they are not all, there are too many and I'm lazy to add them all.
     - [Archived] Gradle Hotswap Plugin
   - JVM Related Programs Development
     - [Archived] [20% WIP  80% Finished and usable] RektGuard - Another stronger Java program obfuscator with crasher, more custom flow obfuscations etc. (Requires `-noverify`, contact me if you ara interested in obfuscating your small program)
-
+  - Misc
+    - [WIP] Regular Bytecode Expression (Regbex) - Regex, not for string, but java bytecode instructions 
+    
 - Python
   - Discord Bots
     - [Archived] Waterdroplet Music Bot
