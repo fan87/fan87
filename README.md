@@ -3,5 +3,3 @@
 ### Other Links
 
 Discord: `fan87`
-
-Email: `fan87@fandiful.tech`
