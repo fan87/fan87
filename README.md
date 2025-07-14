@@ -1,12 +1,17 @@
 ![](https://imgur.com/vsJCEFk.png)
 
 
-### What I do primarily
-- Minecraft server modding (plugins/mods)
-- Minecraft client modding (mods, including advanced rendering)
+### What I do right now
+(Hobby)
 - Game Engine Development
 
-### What I'm learning
+(Work)
+- Minecraft server modding (plugins/mods)
+- Minecraft client modding (mods, including advanced rendering)
+- Game development
+
+
+### What I'm actively learning
 - Embedded development
 
 
